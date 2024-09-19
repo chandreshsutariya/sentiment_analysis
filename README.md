@@ -1,7 +1,7 @@
 # sentiment_analysis
 different models are trained from scratch to predict sentiment from the text-review
 
-##### Outline
+##### Outline:
 1. MERGING train and movies DATASET, MANIPULATION & CLEANING
 2. REMOVING FEATUREs (feature selection)
 3. PREPROCESSING
